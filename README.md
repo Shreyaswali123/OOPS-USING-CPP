@@ -66,16 +66,3 @@ names were added for organization.
 - Single inheritance
 - Multilevel inheritance
 
-## Supporting C++ Exercises
-
-Some files are foundational C++ exercises and do not demonstrate a distinct
-OOPS concept. They have been retained because they are part of the original
-lab work. These include basic input/output, arithmetic, arrays, and string
-processing exercises.
-
-## Repository Maintenance
-
-Add each future lab program with the next sequential number, a descriptive
-lowercase filename using underscores, a documentation header, a concept
-explanation, and useful section comments. Update this README whenever a new
-program is added.
